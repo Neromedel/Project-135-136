@@ -1,0 +1,39 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    font-size: 25px;
+    width: 100%;
+    margin: 0;
+}
+#Start{
+    margin-bottom:20px;
+}
+
+#number_of_objects,
+#Status {
+    font-size: 25px;
+}
+
+.footer {
+    position: fixed;
+    color: cyan;
+    bottom: 0;
+    width: 100%;
+    background-color: salmon;
+    font-size: 20px;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 2px solid lightseagreen;
+    border-radius: 10px;
+    margin-top:200px;
+    float:left;
+    box-shadow: 5px 5px 5px lightgreen;
+}
+
+#Input{
+    width:300px;
+}
